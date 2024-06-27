@@ -1,4 +1,6 @@
 Sistema de Gerenciamento de Estoque
+
+
 Este é um sistema simples de gerenciamento de estoque desenvolvido em Python. Ele permite a criação de contas de usuário, login, e operações básicas de gerenciamento de produtos como cadastro, exclusão, edição e visualização de resumo do estoque.
 
 Funcionalidades
